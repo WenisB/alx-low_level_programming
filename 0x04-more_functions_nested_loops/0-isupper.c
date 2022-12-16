@@ -1,7 +1,7 @@
 #include "main.h"
 
-/**
- * _isupper - checks if a parameter is an uppercase character
+/* s
+ * _isupper - checks if  s parameter is an uppercase character
  * @c: charater input
  *
  * Return: 1 if upper case, 0 otherwise
@@ -12,7 +12,19 @@ int _isupper(int c)
 	{
 		return (1);
 	}
-	else
+eturn: void                                                                                                                                                                                 
+
+	        */                                                                                                                                                                                             
+
+		void print_numbers (void)                                                                                                                                                                       
+
+		{                                                                                                                                                                                               
+
+			        char c;                                                                                                                                                                                 
+
+				                                                                                                                                                                                                
+
+
 	{
 		return (0);
 	}
