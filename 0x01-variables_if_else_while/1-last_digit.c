@@ -22,9 +22,6 @@ int main(void)
 	n = rand() - RAND_MAX / 2;
 	/* your code goes there */
 
-	if (n < 0)
-		n = n * (-1);
-
 	i = n % 10;
 
 	if (i > 5)
