@@ -16,11 +16,11 @@
 int main(void)
 {
 	int n;
+	int i;
 
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
 	/* your code goes there */
-	int i;
 
 	if (n < 0)
 		n = n * (-1);
