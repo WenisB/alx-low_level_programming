@@ -5,7 +5,7 @@
  * Return: Always 1 (Success);
  */
 
-int islower (int c)
+int _islower (int c)
 {
 	if ((c >= 'a') && (c <= 'z'))
 		return 1;
