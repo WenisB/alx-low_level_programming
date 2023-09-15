@@ -1,5 +1,4 @@
 #include "main.h"
-#include <stdio.h>
 /**
  * _isupper - Prints whether an input is uppercase or not
  * @c: the input to evaluate
